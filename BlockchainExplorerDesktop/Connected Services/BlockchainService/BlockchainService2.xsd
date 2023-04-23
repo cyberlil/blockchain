@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/BlockchainService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/BlockchainService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:28451/BlockchainService.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Blockchain" />
+  <xs:complexType name="BlockService">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CreatedOn" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Data" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Hash" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PreviousHash" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="User" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Version" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="BlockService" nillable="true" type="tns:BlockService" />
+  <xs:complexType name="User">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Login" nillable="true" type="xs:string" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Blockchain" minOccurs="0" name="Role" type="q1:UserRole" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="User" nillable="true" type="tns:User" />
+  <xs:complexType name="ArrayOfBlockService">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="BlockService" nillable="true" type="tns:BlockService" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBlockService" nillable="true" type="tns:ArrayOfBlockService" />
+</xs:schema>

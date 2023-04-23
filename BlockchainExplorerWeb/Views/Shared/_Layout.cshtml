@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Blockchain Explorer Web</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Blockchain Explorer", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Главная", "Index", "Home")</li>
+                    <li>@Html.ActionLink("О программе", "About", "Home")</li>
+                    <li>@Html.ActionLink("Просмотр", "Index", "Chain")</li>
+                    <li>@Html.ActionLink("Добавить", "AddBlock", "Chain")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <main class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            
+        </footer>
+    </main>
+    <footer role="contentinfo" class="footer">
+        <div class="container">
+            <span class="text-muted">© Шванов Вадим, 1900 - 2099. Все права защищены.</span>
+            <span class="text-muted">&copy; <a href="http://www.norbit.ru/" target="_blank">Норбит</a> @DateTime.Now.Year - Blockchain Explorer Web. Автор: <a href="https://shwanoff.ru" target="_blank">Шванов Вадим</a>.</span>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
