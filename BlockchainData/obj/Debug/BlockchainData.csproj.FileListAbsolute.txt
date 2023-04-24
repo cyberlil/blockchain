@@ -1,0 +1,14 @@
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\bin\Debug\BlockchainData.dll.config
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\bin\Debug\BlockchainData.dll
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\bin\Debug\BlockchainData.pdb
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\bin\Debug\EntityFramework.dll
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\bin\Debug\EntityFramework.xml
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\obj\Debug\BlockchainData.csprojAssemblyReference.cache
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\obj\Debug\BlockchainData.Migrations.InitialCreate.resources
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\obj\Debug\BlockchainData.csproj.GenerateResource.cache
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\obj\Debug\BlockchainData.csproj.CoreCompileInputs.cache
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\obj\Debug\BlockchainData.csproj.CopyComplete
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\obj\Debug\BlockchainData.dll
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainData\obj\Debug\BlockchainData.pdb

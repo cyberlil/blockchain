@@ -1,0 +1,16 @@
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\bin\Debug\Blockchain.dll.config
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\bin\Debug\Blockchain.dll
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\bin\Debug\Blockchain.pdb
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\bin\Debug\BlockchainData.dll
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\bin\Debug\EntityFramework.dll
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\bin\Debug\BlockchainData.pdb
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\bin\Debug\BlockchainData.dll.config
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\bin\Debug\EntityFramework.xml
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\obj\Debug\Blockchain.csprojAssemblyReference.cache
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\obj\Debug\Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\obj\Debug\Blockchain.csproj.CopyComplete
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\obj\Debug\Blockchain.dll
+C:\Users\Loop\Desktop\Blockchain-master\Blockchain\obj\Debug\Blockchain.pdb

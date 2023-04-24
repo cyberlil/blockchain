@@ -1,0 +1,11 @@
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainExplorerDesktop\bin\Debug\BlockchainExplorerDesktop.exe.config
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainExplorerDesktop\bin\Debug\BlockchainExplorerDesktop.exe
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainExplorerDesktop\bin\Debug\BlockchainExplorerDesktop.pdb
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainExplorerDesktop\obj\Debug\BlockchainExplorerDesktop.csprojAssemblyReference.cache
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainExplorerDesktop\obj\Debug\BlockchainExplorerDesktop.AboutForm.resources
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainExplorerDesktop\obj\Debug\BlockchainExplorerDesktop.MainForm.resources
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainExplorerDesktop\obj\Debug\BlockchainExplorerDesktop.Properties.Resources.resources
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainExplorerDesktop\obj\Debug\BlockchainExplorerDesktop.csproj.GenerateResource.cache
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainExplorerDesktop\obj\Debug\BlockchainExplorerDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainExplorerDesktop\obj\Debug\BlockchainExplorerDesktop.exe
+C:\Users\Loop\Desktop\Blockchain-master\BlockchainExplorerDesktop\obj\Debug\BlockchainExplorerDesktop.pdb
