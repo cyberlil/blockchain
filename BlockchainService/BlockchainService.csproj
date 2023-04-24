@@ -130,7 +130,7 @@
 	  <HintPath>dll\System.Xml.Linq.dll</HintPath>
 	</Reference>
 	<Reference Include="mscorlib">
-	  <HintPath '/usr/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.5/ref/net7.0/mscorelib.dll' />
+	  <HintPath> "/usr/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.5/ref/net7.0/mscorelib.dll" <HintPath/>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
