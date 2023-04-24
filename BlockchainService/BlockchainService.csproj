@@ -58,29 +58,53 @@
       <HintPath>..\packages\MySql.Data.6.10.6\lib\net452\MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="System.ComponentModel" />
+	  <HintPath>.\System.ComponentModel.dll</HintPath>
     <Reference Include="System.ComponentModel.DataAnnotations" />
+	  <HintPath>.\System.ComponentModel.DataAnnotations.dll</HintPath>
     <Reference Include="System.Configuration.Install" />
+	  <HintPath>.\System.Configuration.Install.dll</HintPath>
     <Reference Include="System.Drawing.Design" />
+	  <HintPath>.\System.Drawing.Design.dll</HintPath>
     <Reference Include="System.Management" />
+	  <HintPath>.\System.Management.dll</HintPath>
     <Reference Include="System.Runtime" />
+	  <HintPath>.\System.Runtime.dll</HintPath>
     <Reference Include="System.Transactions" />
+	  <HintPath>.\System.Transactions.dll</HintPath>
     <Reference Include="System.Web.DynamicData" />
+	  <HintPath>.\System.Web.DynamicData.dll</HintPath>
     <Reference Include="System.Web.Entity" />
+	  <HintPath>.\System.Web.Entity.dll</HintPath>
     <Reference Include="System.Web.ApplicationServices" />
+	  <HintPath>.\System.Web.ApplicationServices.dll</HintPath>
     <Reference Include="System" />
+	  <HintPath>.\System.dll</HintPath>
     <Reference Include="System.Configuration" />
+	  <HintPath>.\System.Configuration.dll</HintPath>
     <Reference Include="System.Core" />
+	  <HintPath>.\System.Core.dll</HintPath>
     <Reference Include="System.Data" />
+	  <HintPath>.\System.Data.dll</HintPath>
     <Reference Include="System.Drawing" />
+	  <HintPath>.\System.Drawing.dll</HintPath>
     <Reference Include="System.EnterpriseServices" />
+	  <HintPath>.\System.EnterpriseServices.dll</HintPath>
     <Reference Include="System.Runtime.Serialization" />
+	  <HintPath>.\System.Runtime.Serialization.dll</HintPath>
     <Reference Include="System.ServiceModel" />
+	  <HintPath>.\System.ServiceModel.dll</HintPath>
     <Reference Include="System.ServiceModel.Web" />
+	  <HintPath>.\System.ServiceModel.Web.dll</HintPath>
     <Reference Include="System.Web" />
+	  <HintPath>.\System.Web.dll</HintPath>
     <Reference Include="System.Web.Extensions" />
+	  <HintPath>.\System.Web.Extensions.dll</HintPath>
     <Reference Include="System.Web.Services" />
+	  <HintPath>.\System.Web.Services.dll</HintPath>
     <Reference Include="System.Xml" />
+	  <HintPath>.\System.Xml.dll</HintPath>
     <Reference Include="System.Xml.Linq" />
+	  <HintPath>.\System.Xml.Linq.dll</HintPath>
   </ItemGroup>
   <ItemGroup>
     <Content Include="BlockchainService.svc" />
@@ -142,9 +166,9 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>28451</DevelopmentServerPort>
+          <DevelopmentServerPort>80</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:28451/</IISUrl>
+          <IISUrl>http://localhost:80/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
