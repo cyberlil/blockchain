@@ -18,6 +18,9 @@
     <TargetFramework>net7.0.5</TargetFramework>
     <WcfConfigValidationEnabled>True</WcfConfigValidationEnabled>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+	
+	<EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+	
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
     <IISExpressSSLPort />
