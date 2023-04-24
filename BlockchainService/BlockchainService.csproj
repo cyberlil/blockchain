@@ -58,76 +58,76 @@
       <HintPath>..\packages\MySql.Data.6.10.6\lib\net452\MySql.Data.dll</HintPath>
     </Reference>
     <Reference Include="System.ComponentModel">
-	  <HintPath>.\System.ComponentModel.dll</HintPath>
+	  <HintPath>.\dll\System.ComponentModel.dll</HintPath>
 	</Reference>
     <Reference Include="System.ComponentModel.DataAnnotations">
-	  <HintPath>.\System.ComponentModel.DataAnnotations.dll</HintPath>
+	  <HintPath>.\dll\System.ComponentModel.DataAnnotations.dll</HintPath>
 	</Reference>
     <Reference Include="System.Configuration.Install">
-	  <HintPath>.\System.Configuration.Install.dll</HintPath>
+	  <HintPath>.\dll\System.Configuration.Install.dll</HintPath>
     </Reference>
 	<Reference Include="System.Drawing.Design">
-	  <HintPath>.\System.Drawing.Design.dll</HintPath>
+	  <HintPath>.\dll\System.Drawing.Design.dll</HintPath>
     </Reference>
 	<Reference Include="System.Management">
-	  <HintPath>.\System.Management.dll</HintPath>
+	  <HintPath>.\dll\System.Management.dll</HintPath>
     </Reference>
 	<Reference Include="System.Runtime">
-	  <HintPath>.\System.Runtime.dll</HintPath>
+	  <HintPath>.\dll\System.Runtime.dll</HintPath>
     </Reference>
 	<Reference Include="System.Transactions">
-	  <HintPath>.\System.Transactions.dll</HintPath>
+	  <HintPath>.\dll\System.Transactions.dll</HintPath>
     </Reference>
 	<Reference Include="System.Web.DynamicData">
-	  <HintPath>.\System.Web.DynamicData.dll</HintPath>
+	  <HintPath>.\dll\System.Web.DynamicData.dll</HintPath>
     </Reference>
 	<Reference Include="System.Web.Entity">
-	  <HintPath>.\System.Web.Entity.dll</HintPath>
+	  <HintPath>.\dll\System.Web.Entity.dll</HintPath>
     </Reference>
 	<Reference Include="System.Web.ApplicationServices">
-	  <HintPath>.\System.Web.ApplicationServices.dll</HintPath>
+	  <HintPath>.\dll\System.Web.ApplicationServices.dll</HintPath>
     </Reference>
 	<Reference Include="System">
-	  <HintPath>.\System.dll</HintPath>
+	  <HintPath>.\dll\System.dll</HintPath>
     </Reference>
 	<Reference Include="System.Configuration">
-	  <HintPath>.\System.Configuration.dll</HintPath>
+	  <HintPath>.\dll\System.Configuration.dll</HintPath>
     </Reference>
 	<Reference Include="System.Core">
-	  <HintPath>.\System.Core.dll</HintPath>
+	  <HintPath>.\dll\System.Core.dll</HintPath>
     </Reference>
 	<Reference Include="System.Data">
-	  <HintPath>.\System.Data.dll</HintPath>
+	  <HintPath>.\dll\System.Data.dll</HintPath>
     </Reference>
 	<Reference Include="System.Drawing">
-	  <HintPath>.\System.Drawing.dll</HintPath>
+	  <HintPath>.\dll\System.Drawing.dll</HintPath>
     </Reference>
 	<Reference Include="System.EnterpriseServices">
-	  <HintPath>.\System.EnterpriseServices.dll</HintPath>
+	  <HintPath>.\dll\System.EnterpriseServices.dll</HintPath>
     </Reference>
 	<Reference Include="System.Runtime.Serialization">
-	  <HintPath>.\System.Runtime.Serialization.dll</HintPath>
+	  <HintPath>.\dll\System.Runtime.Serialization.dll</HintPath>
     </Reference>
 	<Reference Include="System.ServiceModel">
-	  <HintPath>.\System.ServiceModel.dll</HintPath>
+	  <HintPath>.\dll\System.ServiceModel.dll</HintPath>
     </Reference>
 	<Reference Include="System.ServiceModel.Web">
-	  <HintPath>.\System.ServiceModel.Web.dll</HintPath>
+	  <HintPath>.\dll\System.ServiceModel.Web.dll</HintPath>
     </Reference>
 	<Reference Include="System.Web">
-	  <HintPath>.\System.Web.dll</HintPath>
+	  <HintPath>.\dll\System.Web.dll</HintPath>
     </Reference>
 	<Reference Include="System.Web.Extensions">
-	  <HintPath>.\System.Web.Extensions.dll</HintPath>
+	  <HintPath>.\dll\System.Web.Extensions.dll</HintPath>
     </Reference>
 	<Reference Include="System.Web.Services">
-	  <HintPath>.\System.Web.Services.dll</HintPath>
+	  <HintPath>.\dll\System.Web.Services.dll</HintPath>
     </Reference>
 	<Reference Include="System.Xml">
-	  <HintPath>.\System.Xml.dll</HintPath>
+	  <HintPath>.\dll\System.Xml.dll</HintPath>
     </Reference>
 	<Reference Include="System.Xml.Linq">
-	  <HintPath>.\System.Xml.Linq.dll</HintPath>
+	  <HintPath>.\dll\System.Xml.Linq.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
