@@ -15,7 +15,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BlockchainService</RootNamespace>
     <AssemblyName>BlockchainService</AssemblyName>
-    <TargetFrameworkVersion>net7.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>net4.0</TargetFrameworkVersion>
     <WcfConfigValidationEnabled>True</WcfConfigValidationEnabled>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <UseIISExpress>true</UseIISExpress>
